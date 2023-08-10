@@ -22,22 +22,26 @@
 }
 
 @font-face {
-  font-family: 'JetBrainsMono';
-  src: url('/fonts/JetBrainsMono-Regular.woff2');
-  font-weight: normal;
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Jetbrains Mono'), url('/fonts/JetBrainsMono.woff2');
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'JetBrainsMono';
-  src: url('/fonts/JetBrainsMono-ExtraBold.woff2');
-  font-weight: bolder;
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Jetbrains Mono'), url('/fonts/JetBrainsMono.woff2');
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Poppins';
-  src: url('/fonts/Poppins-Regular.otf');
+  font-style: normal;
+  font-weight: 400;
+  src: local('Poppins'), url('/fonts/Poppins.woff2');
   font-display: swap;
 }
 
@@ -81,7 +85,7 @@ h1,
 h2 {
   margin-bottom: 0.5rem;
 
-  font-family: JetBrainsMono, 'Courier New', Courier, monospace;
+  font-family: 'JetBrains Mono', 'Courier New', Courier, monospace;
   font-weight: bolder;
   word-spacing: -0.25em;
   color: var(--color-header);
