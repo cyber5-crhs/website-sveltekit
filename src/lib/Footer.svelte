@@ -1,7 +1,7 @@
 <footer>
   <div class="wrapper">
     <div>
-      <p>cyber5 © 2023 | <a href="/contact">contact</a></p>
+      <p>cyber5 © 2023 | <a href="https://github.com/cyber5-crhs/website">source</a> | <a href="/contact">contact</a></p>
       <p>
         We are a 501(c)(3) nonprofit, fiscally sponsored by <a
           href="https://hackclub.com/bank">Hack Club</a
