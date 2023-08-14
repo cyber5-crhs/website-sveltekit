@@ -62,10 +62,9 @@
   <p>
     <a href="https://matrix.org">Matrix.org</a> is a decent homeserver, but
     there are others we recommend such as
-    <a href="https://envs.net">envs.net</a>. Again, matrix.org has a
-    <a href="https://matrix.org/ecosystem/clients"
-      >list of popular homeservers</a
-    > you can pick from.
+    <a href="https://envs.net">envs.net</a>. You can find a list of popular
+    homeservers on
+    <a href="https://joinmatrix.org/servers/">joinmatrix.org</a>.
   </p>
   <p>
     Good OPSEC dictates that you shouldn't reveal private information in your
