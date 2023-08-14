@@ -62,7 +62,15 @@
   <p>
     <a href="https://matrix.org">Matrix.org</a> is a decent homeserver, but
     there are others we recommend such as
-    <a href="https://envs.net"> envs.net </a>.
+    <a href="https://envs.net">envs.net</a>. Again, matrix.org has a
+    <a href="https://matrix.org/ecosystem/clients"
+      >list of popular homeservers</a
+    > you can pick from.
+  </p>
+  <p>
+    Good OPSEC dictates that you shouldn't reveal private information in your
+    username. Keep in mind that you can set a nickname in the Matrix rooms using
+    <code>/roomnick</code>.
   </p>
 
   <h2>joining our space</h2>
