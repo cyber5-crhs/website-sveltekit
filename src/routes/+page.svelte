@@ -147,8 +147,11 @@
   header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 
     svg {
+      vertical-align: middle;
+
       fill: var(--color-header);
       width: 1.875rem;
       height: 1.875rem;
