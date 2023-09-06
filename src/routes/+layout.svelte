@@ -3,7 +3,7 @@
   import Footer from '$lib/Footer.svelte';
 
   const meeting = {
-    active: true,
+    active: false,
 
     number: 0,
     date: 'sept 04',
